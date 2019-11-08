@@ -13,7 +13,7 @@ Quisiéramos agradecer a la Facultad de Ciencias Físicas y Matemáticas de la U
 Atentamente, 
 El Equipo de Organización y Análisis del Cabildo
 
-Tania Sauma
+Tania Sauma //
 Jocelyn Dunstan
 Nicolás Mujica
 David Maldonado

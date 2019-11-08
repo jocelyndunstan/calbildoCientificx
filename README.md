@@ -14,9 +14,9 @@ Atentamente,
 El Equipo de Organización y Análisis del Cabildo
 
 Tania Sauma <br/>
-Jocelyn Dunstan
-Nicolás Mujica
-David Maldonado
-Constanza Jara
-Andrea Schmessane
+Jocelyn Dunstan <br/>
+Nicolás Mujica <br/>
+David Maldonado <br/>
+Constanza Jara <br/>
+Andrea Schmessane <br/>
 Martín Iraní
